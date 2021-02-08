@@ -1,0 +1,25 @@
+.my-class img{
+    padding-right:2px;
+    padding-left: 2px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+
+};   
+.my-class{
+    text-align: center;
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    float:none;
+}
+body {
+    display: flex;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    justify-content: center;
+}
+p{
+    text-align: left;
+    margin-right: 10%;
+    margin-left: 10%;}
