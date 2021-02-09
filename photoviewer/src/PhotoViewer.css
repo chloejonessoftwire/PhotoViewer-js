@@ -1,8 +1,5 @@
 .my-class img{
-    padding-right:2px;
-    padding-left: 2px;
-    padding-top: 1px;
-    padding-bottom: 1px;
+    
 
 };   
 .my-class{
@@ -19,7 +16,9 @@ body {
     margin-right: 10%;
     justify-content: center;
 }
-p{
-    text-align: left;
+.url-link{
+    text-align: center;
     margin-right: 10%;
-    margin-left: 10%;}
+    margin-left: 10%;
+    font-size: x-small;
+}
