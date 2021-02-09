@@ -26,6 +26,8 @@ p{
     margin-left: 10%;
 }
 .selected-pic{
+    width: 200px;
+    height: 200px;
     padding:0px;
     border-right: 3px orange solid;
     border-left: 3px orange solid;
@@ -34,6 +36,8 @@ p{
 
 }
 .un-selectedpic{
+    width: 200px;
+    height: 200px;
     padding-right:3px;
     padding-left: 3px;
     padding-top: 2px;

@@ -9,7 +9,7 @@ function PhotoViewer(props) {
     return (
         <div className="my-class" >
 
-            <img src={props.source} alt='photo' /> 
+            <img data-testid="main-image" src={props.source} alt='photo' /> 
             <br></br>
             <a className='url-link' href={props.source}> Picture URL: {props.source}</a>
         </div>
